@@ -39,9 +39,9 @@ export default function Home() {
         <p>Share how you are feeling with like minded people in a friendly space. No booking required, just turn up. No cost except whatever drinks etc you would like to buy.</p>
       </main>
 
-      <footer className="flex flex-row justify-between">
+      <footer className="flex flex-row justify-between flex-wrap gap-x-4">
           <div>
-            <a href="https://www.facebook.com/groups/exeterclimatecafe">Facebook</a>
+            <a href="https://www.facebook.com/groups/exeterclimatecafe">facebook.com/groups/exeterclimatecafe</a>
           </div>
           <div>
             <a href="mailto:info@exeterclimatecafe.org">info@exeterclimatecafe.org</a>
