@@ -27,7 +27,7 @@ export default function Home() {
           Exeter<br/>Climate<br/>Cafe
         </h1>
         <div className='not-prose'>
-        <img src="coffee.png" width="100px" className='mx-auto' />
+        <img src="coffee.png" width="100px" height="100px" alt="Exeter Climate Cafe" className='mx-auto' />
         </div>
         
 
