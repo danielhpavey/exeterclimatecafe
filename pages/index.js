@@ -26,6 +26,10 @@ export default function Home() {
         <h1 className="text-center">
           Exeter<br/>Climate<br/>Cafe
         </h1>
+        <div className='not-prose'>
+        <img src="coffee.png" width="100px" className='mx-auto' />
+        </div>
+        
 
         <p>Climate change continues - and so do we!</p>
         <p>Every Wednesday morning at <a href="https://exeterphoenix.org.uk/">Exeter Phoenix</a> cafe bar.</p>
