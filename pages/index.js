@@ -26,8 +26,13 @@ export default function Home() {
         <h1 className="text-center">
           Exeter<br/>Climate<br/>Cafe
         </h1>
-        <div className='not-prose'>
-        <img src="coffee.png" width="100px" height="100px" alt="Exeter Climate Cafe" className='mx-auto' />
+        <div className='not-prose text-center'>
+        <Image
+          src="/coffee.png"
+          alt="Exeter Climate Cafe"
+          width={100}
+          height={100}
+        />
         </div>
         
 
