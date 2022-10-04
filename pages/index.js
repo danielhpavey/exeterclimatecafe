@@ -41,7 +41,7 @@ export default function Home() {
 
       <footer className="flex flex-row justify-between flex-wrap gap-x-4">
           <div>
-            <a href="https://www.facebook.com/groups/exeterclimatecafe">facebook.com/groups/exeterclimatecafe</a>
+            <a href="https://www.facebook.com/groups/exeterclimatecafe" className="break-all">facebook.com/groups/exeterclimatecafe</a>
           </div>
           <div>
             <a href="mailto:info@exeterclimatecafe.org">info@exeterclimatecafe.org</a>
