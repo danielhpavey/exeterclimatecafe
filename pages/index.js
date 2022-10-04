@@ -27,12 +27,21 @@ export default function Home() {
           Exeter<br/>Climate<br/>Cafe
         </h1>
 
-        <p>Join us at the Exeter Phoenix cafe bar for coffee & cake to talk about how the climate and biodiversity crisis is affecting you. Find us on the far side of the cafe near the auditorium. We usually have two sofas and a table.</p>
-        <p>
-Share how you are feeling with like minded people in a friendly space. No booking required, just turn up. No cost except whatever drinks etc you would like to buy.</p>
+        <p>Climate change continues - and so do we!</p>
+        <p>Every Wednesday morning at <a href="https://exeterphoenix.org.uk/">Exeter Phoenix</a> cafe bar.</p>
+        <p>How is the loss of nature and climate change affecting you? Are you feeling worried, enraged, confused, despairing or motivated to act?</p>
+        <p>Find us on the far side of the cafe near the auditorium from 10.30am - midday. We usually have the sofas and a table. If you are not sure where we are - please ask at the bar.
+        </p>
+        <p>Share how you are feeling with like minded people in a friendly space. No booking required, just turn up. No cost except whatever drinks etc you would like to buy.</p>
       </main>
 
-      <footer className="">
+      <footer className="flex flex-row justify-between">
+          <div>
+            <a href="https://www.facebook.com/groups/exeterclimatecafe">Facebook</a>
+          </div>
+          <div>
+            <a href="mailto:info@exeterclimatecafe.org">info@exeterclimatecafe.org</a>
+          </div>
       </footer>
     </div>
   )
