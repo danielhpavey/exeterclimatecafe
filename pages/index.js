@@ -27,15 +27,8 @@ export default function Home() {
           Exeter<br/>Climate<br/>Cafe
         </h1>
         <div className='not-prose text-center'>
-        <Image
-          src="/coffee.png"
-          alt="Exeter Climate Cafe"
-          width={100}
-          height={100}
-        />
+        <img src="/coffee.png" alt="Exeter Climate Cafe" width="100" heigth="100" className="mt-4 mx-auto" />
         </div>
-        
-
         <p>Climate change continues - and so do we!</p>
         <p>Every Wednesday morning at <a href="https://exeterphoenix.org.uk/">Exeter Phoenix</a> cafe bar.</p>
         <p>How is the loss of nature and climate change affecting you? Are you feeling worried, enraged, confused, despairing or motivated to act?</p>
