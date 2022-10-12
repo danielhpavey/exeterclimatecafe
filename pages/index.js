@@ -24,7 +24,7 @@ export default function Home() {
       </Head>
       <img src="/exeter-climate-cafe.png" alt="Exeter Climate Cafe" />
       <main className="mt-4 px-8">
-        <h1 className="text-center">
+        <h1 className="text-center absolute top-0 -z-50">
           Exeter<br/>Climate<br/>Cafe
         </h1>
         <div className='not-prose text-center'>
