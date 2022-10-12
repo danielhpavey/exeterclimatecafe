@@ -10,7 +10,7 @@ export default function Home() {
       document.body.classList.add("bg-slate-50");
   });
   return (
-    <div className="prose prose-xl prose-stone min-h-screen px-8 mx-auto antialiased font-sans font-['Poppins']">
+    <div className="prose prose-xl prose-stone min-h-screen mx-auto antialiased font-sans font-['Poppins']">
       <Head>
         <title>Exeter Climate Cafe</title>
         <meta name="description" content="Exeter Climate Cafe" />
@@ -22,12 +22,12 @@ export default function Home() {
       rel="stylesheet"
     />
       </Head>
-      <main className="mt-4">
-        <h1 className="text-center">
+      <img src="/exeter-climate-cafe.png" alt="Exeter Climate Cafe" />
+      <main className="mt-4 px-8">
+        <h1 className="text-center absolute top-0 -z-50">
           Exeter<br/>Climate<br/>Cafe
         </h1>
         <div className='not-prose text-center'>
-        <img src="/coffee.png" alt="Exeter Climate Cafe" width="100" heigth="100" className="mt-4 mx-auto" />
         </div>
         <p>Climate change continues - and so do we!</p>
         <p>Every Wednesday morning at <a href="https://exeterphoenix.org.uk/">Exeter Phoenix</a> cafe bar.</p>
