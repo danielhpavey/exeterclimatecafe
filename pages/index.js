@@ -48,7 +48,7 @@ export default function Home() {
 <p>We currently have a pool of 11 facilitators so we can take turns and share the role of having at least two facilitators at every cafe we run. We are trained by the <a href="https://www.climatepsychologyalliance.org/">Climate Psychology Alliance</a> and welcome enquiries from new would-be faciliators. You do not have to have a therapeutic background but some of us do. Get in touch today. </p>
       </main>
 
-      <footer className="flex flex-row justify-between flex-wrap gap-x-4">
+      <footer className="flex flex-row justify-between flex-wrap gap-4 px-8 my-4 mb-12">
           <div>
             <a href="https://www.facebook.com/groups/exeterclimatecafe" className="break-all">facebook.com/groups/exeterclimatecafe</a>
           </div>
