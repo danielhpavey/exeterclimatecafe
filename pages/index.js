@@ -30,11 +30,22 @@ export default function Home() {
         <div className='not-prose text-center'>
         </div>
         <p>Climate change continues - and so do we!</p>
-        <p>Every Wednesday morning at <a href="https://exeterphoenix.org.uk/">Exeter Phoenix</a> cafe bar.</p>
-        <p>How is the loss of nature and climate change affecting you? Are you feeling worried, enraged, confused, despairing or motivated to act?</p>
-        <p>Find us on the far side of the cafe near the auditorium from 10.30am - midday. We usually have the sofas and a table. If you are not sure where we are - please ask at the bar.
-        </p>
-        <p>Share how you are feeling with like minded people in a friendly space. No booking required, just turn up. No cost except whatever drinks etc you would like to buy.</p>
+
+<p>Every Wednesday morning at <a href="https://exeterphoenix.org.uk/">Exeter Phoenix</a> 10.30am - midday</p>
+
+<p>How is the loss of nature and climate change affecting you? Are you feeling worried, enraged, confused, despairing or motivated to act?</p>
+
+<p>We used to meet in the bar but we are now upstairs in the board room - ask at reception as you come in. Please help support the arts centre by purchasing a coffee and/or cake at the cafe bar - you're welcome to bring these up to the room. </p>
+
+<p>Share how you are feeling with like minded people in a friendly space. No booking required, just turn up. No cost except whatever drinks etc you would like to buy.</p>
+
+<p><strong>Outreach cafes:</strong></p>
+
+<p>We are now running extra climate cafes all over the city and would love to hear from you if you would like one. We have been to St David's Church Green Event and we are at Sylvania Community Stores and Cafe on Thursday 20th October 2022 between 10am and midday. We hope to be in the new Climate Action Hub soon too. Get in touch today. </p>
+
+<p><strong>Facilitators:</strong></p>
+
+<p>We currently have a pool of 11 facilitators so we can take turns and share the role of having at least two facilitators at every cafe we run. We are trained by the Climate Psychology alliance and welcome enquiries from new would-be faciliators. You do not have to have a therapeutic background but some of us do. Get in touch today. </p>
       </main>
 
       <footer className="flex flex-row justify-between flex-wrap gap-x-4">
