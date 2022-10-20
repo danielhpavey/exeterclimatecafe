@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import { useEffect } from 'react';
+import Gallery from '../components/gallery';
 
 
 export default function Home() {
@@ -56,6 +57,7 @@ export default function Home() {
             <a href="mailto:info@exeterclimatecafe.org">info@exeterclimatecafe.org</a>
           </div>
       </footer>
+      <Gallery />
     </div>
   )
 }
