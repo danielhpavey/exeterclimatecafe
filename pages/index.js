@@ -32,21 +32,24 @@ export default function Home() {
         </div>
         <p>Climate change continues - and so do we!</p>
 
+        <p>How is the loss of nature and climate change affecting you? Are you feeling worried, enraged, confused, despairing or motivated to act?</p>
+
+        <p>Share how you are feeling with like minded people in a friendly space. No booking required, just turn up. No cost except whatever drinks etc you would like to buy.</p>
+
+
 <p>Every Wednesday morning at <a href="https://exeterphoenix.org.uk/">Exeter Phoenix</a> 10.30am - midday</p>
 
-<p>How is the loss of nature and climate change affecting you? Are you feeling worried, enraged, confused, despairing or motivated to act?</p>
+<p>We used to meet in the bar but we are now upstairs in the meeting room - which is the first room on the left at the top of the main stairs, ask at reception as you come in. Please help support the arts centre by purchasing a coffee and/or cake at the cafe bar - you&apos;re welcome to bring these up to the room. </p>
 
-<p>We used to meet in the bar but we are now upstairs in the board room - ask at reception as you come in. Please help support the arts centre by purchasing a coffee and/or cake at the cafe bar - you&apos;re welcome to bring these up to the room. </p>
-
-<p>Share how you are feeling with like minded people in a friendly space. No booking required, just turn up. No cost except whatever drinks etc you would like to buy.</p>
+<p>And now we a second Climate Cafe running on the first Friday of every month from 10:30am to 12 midday. This is at new <a href="https://climateactionhubexeter.net/">Exeter Climate Action Hub</a>, 40 Beford Square, Princesshay, EX1 1GJ. This is the old Crew clothing shop at the back of Debenhams, next door to Neals Yard Remedies</p>
 
 <p><strong>Outreach cafes:</strong></p>
 
-<p>We are now running extra climate cafes all over the city and would love to hear from you if you would like one. We have been to St David&apos;s Church Green Event and we are at Sylvania Community Stores and Cafe on Thursday 20th October 2022 between 10am and midday. We hope to be in the new Climate Action Hub soon too. Get in touch today. </p>
+<p>We are now running extra climate cafes all over the city and would love to hear from you if you would like one. We have been to St David&apos;s Church Green Event and Sylvania Community Stores and Cafe. Get in touch today. </p>
 
 <p><strong>Facilitators:</strong></p>
 
-<p>We currently have a pool of 11 facilitators so we can take turns and share the role of having at least two facilitators at every cafe we run. We are trained by the <a href="https://www.climatepsychologyalliance.org/">Climate Psychology Alliance</a> and welcome enquiries from new would-be faciliators. You do not have to have a therapeutic background but some of us do. Get in touch today. </p>
+<p>We currently have a pool of facilitators so we can take turns and share the role of having at least two facilitators at every cafe we run. We are trained by the <a href="https://www.climatepsychologyalliance.org/">Climate Psychology Alliance</a> and welcome enquiries from new would-be faciliators. You do not have to have a therapeutic background but some of us do. Get in touch today. </p>
       </main>
 
       <footer className="flex flex-row justify-between flex-wrap gap-4 px-8 my-4 mb-12">
