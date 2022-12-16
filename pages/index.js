@@ -37,6 +37,8 @@ export default function Home() {
         <p>Share how you are feeling with like minded people in a friendly space. No booking required, just turn up. No cost except whatever drinks etc you would like to buy.</p>
 
 
+        <img src="/exeter-climate-cafe-exeter-pheonix.jpg" alt="Exeter Climate Cafe at Exeter Pheonix" className="mx-auto md:float-right md:ml-8 md:max-w-[50%] md:mt-0 md:mb-0" />
+
 <p>Every Wednesday morning at <a href="https://exeterphoenix.org.uk/">Exeter Phoenix</a> 10.30am - midday</p>
 
 <p><strong>Please note we closed on Wednesday the 28th December and will be back on Wednesday 4th January 2023.</strong></p>
@@ -44,6 +46,8 @@ export default function Home() {
 <p>We used to meet in the bar but we are now upstairs in the meeting room - which is the first room on the left at the top of the main stairs, ask at reception as you come in. Please help support the arts centre by purchasing a coffee and/or cake at the cafe bar - you&apos;re welcome to bring these up to the room. </p>
 
 <p>And now we have a second Climate Cafe running on the first Friday of every month from 10:30am to 12 midday. This is at the new <a href="https://climateactionhubexeter.net/">Exeter Climate Action Hub</a>, 40 Bedford Square, Princesshay, EX1 1GJ. This is the old Crew clothing shop at the back of Debenhams, next door to Neals Yard Remedies</p>
+
+<img src="/exeter-climate-cafe-sylvania-community-stores.jpg" alt="Exeter Climate Cafe at Sylvania Community Stores and Cafe" className="mx-auto md:float-left md:mr-8 md:max-w-[50%] md:mt-0 md:mb-0" />
 
 <p><strong>Outreach cafes:</strong></p>
 
