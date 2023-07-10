@@ -33,7 +33,7 @@ export default function Home() {
 
         <div class="text-center bg-blue-500 text-white font-bold px-4 py-3" role="alert">
 
-     <h2 class="text-white mt-3">Exeter Climate Cafe  The Phoenix is having an August Break</h2>
+     <h2 class="text-white mt-3">Exeter Climate Cafe @ The Phoenix is having an August Break</h2>
      <p>We&apos; re having a bit of a rest &amp; recuperation so we can be back fully restored to hold space for your climate concerns in September.</p>
      <p>Meanwhile our cafe on the 4th Aug at the Hub will go ahead as usual.</p>
 </div>
