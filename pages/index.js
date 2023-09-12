@@ -51,7 +51,7 @@ export default function Home() {
 <p>
 Our first (evening) climate circle specifically for parents/guardians. A safe and welcoming space to share your feelings about parenting at this challenging time. There are only 8 places so you do need to book your slot on Eventbrite. Suggested donation of between £2 and £5 for room hire. <a href="https://www.eventbrite.co.uk/e/parentcarer-climate-circle-tickets-715930065097">https://www.eventbrite.co.uk/e/parentcarer-climate-circle-tickets-715930065097</a></p>
 
-<p><strong>Exmouth Climate Cafe</strong> - Sundowners, 15 The Strand, Exmouth, EX8 1AD, 3rd Tuesday of each month 7 - 8.30pm stating 20th June 2023. Contact gerryexmouth@aol.com 07807 371438</p>
+<p><strong>Exmouth Climate Cafe</strong> - Sundowners, 15 The Strand, Exmouth, EX8 1AD, 3rd Tuesday of each month 7 - 8.30pm starting 20th June 2023. Contact gerryexmouth@aol.com 07807 371438</p>
 
 <img src="/exeter-climate-cafe-sylvania-community-stores.jpg" alt="Exeter Climate Cafe at Sylvania Community Stores and Cafe" className="mx-auto md:float-left md:mr-8 md:max-w-[50%] md:mt-0 md:mb-0" />
 
