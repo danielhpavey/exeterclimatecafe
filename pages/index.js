@@ -61,7 +61,7 @@ Our first (evening) climate circle specifically for parents/guardians. A safe an
 
 <p><strong>Facilitators:</strong></p>
 
-<img src="/our-facilitators.jpeg" alt="Exeter Climate Cafe at Sylvania Community Stores and Cafe" className="mx-auto md:float-right md:ml-8 md:max-w-[60%] md:mt-0 md:mb-0" />
+<img src="/our-facilitators.jpeg" alt="Some of our Facilitators" className="mx-auto md:float-right md:ml-8 md:max-w-[60%] md:mt-0 md:mb-0" />
 <p>We currently have a pool of facilitators so we can take turns and share the role of having at least two facilitators at every cafe we run. We are trained by the <a href="https://www.climatepsychologyalliance.org/">Climate Psychology Alliance</a> and welcome enquiries from new would-be faciliators. You do not have to have a therapeutic background but some of us do. Get in touch today. </p>
       </main>
 
