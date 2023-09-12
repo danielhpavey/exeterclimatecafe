@@ -49,7 +49,7 @@ export default function Home() {
 7.30pm-9pm at The Baby Room on Paris Street, Exeter.</p> 
 
 <p>
-Our first (evening) climate circle specifically for parents/guardians. A safe and welcoming space to share your feelings about parenting at this challenging time. There are only 8 places so you do need to book your slot on Eventbrite. Suggested donation of between £2 and £5 for room hire. <a href="https://www.eventbrite.co.uk/e/parentcarer-climate-circle-tickets-715930065097">https://www.eventbrite.co.uk/e/parentcarer-climate-circle-tickets-715930065097</a></p>
+Our first (evening) climate circle specifically for parents/guardians. A safe and welcoming space to share your feelings about parenting at this challenging time. There are only 8 places so you do need to book your slot on Eventbrite. Suggested donation of between £2 and £5 for room hire. <a className="break-all" href="https://www.eventbrite.co.uk/e/parentcarer-climate-circle-tickets-715930065097">https://www.eventbrite.co.uk/e/parentcarer-climate-circle-tickets-715930065097</a></p>
 
 <p><strong>Exmouth Climate Cafe</strong> - Sundowners, 15 The Strand, Exmouth, EX8 1AD, 3rd Tuesday of each month 7 - 8.30pm. Contact gerryexmouth@aol.com 07807 371438</p>
 
@@ -57,7 +57,7 @@ Our first (evening) climate circle specifically for parents/guardians. A safe an
 
 <p><strong>Outreach cafes:</strong></p>
 
-<p>We are now running extra climate cafes all over the city and would love to hear from you if you would like one. We have been to The Met Office&comma; St David&apos;s Church Green Event and Sylvania Community Stores and Cafe. Get in touch today. </p>
+<p>We are now running extra climate cafes all over the city and would love to hear from you if you would like one. We have been to The Met Office, St David&apos;s Church Green Event and Sylvania Community Stores and Cafe. Get in touch today. </p>
 
 <p><strong>Facilitators:</strong></p>
 
