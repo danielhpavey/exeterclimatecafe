@@ -51,16 +51,17 @@ export default function Home() {
 <p>
 Our first (evening) climate circle specifically for parents/guardians. A safe and welcoming space to share your feelings about parenting at this challenging time. There are only 8 places so you do need to book your slot on Eventbrite. Suggested donation of between £2 and £5 for room hire. <a href="https://www.eventbrite.co.uk/e/parentcarer-climate-circle-tickets-715930065097">https://www.eventbrite.co.uk/e/parentcarer-climate-circle-tickets-715930065097</a></p>
 
-<p><strong>Exmouth Climate Cafe</strong> - Sundowners, 15 The Strand, Exmouth, EX8 1AD, 3rd Tuesday of each month 7 - 8.30pm starting 20th June 2023. Contact gerryexmouth@aol.com 07807 371438</p>
+<p><strong>Exmouth Climate Cafe</strong> - Sundowners, 15 The Strand, Exmouth, EX8 1AD, 3rd Tuesday of each month 7 - 8.30pm. Contact gerryexmouth@aol.com 07807 371438</p>
 
 <img src="/exeter-climate-cafe-sylvania-community-stores.jpg" alt="Exeter Climate Cafe at Sylvania Community Stores and Cafe" className="mx-auto md:float-left md:mr-8 md:max-w-[50%] md:mt-0 md:mb-0" />
 
 <p><strong>Outreach cafes:</strong></p>
 
-<p>We are now running extra climate cafes all over the city and would love to hear from you if you would like one. We have been to St David&apos;s Church Green Event and Sylvania Community Stores and Cafe. Get in touch today. </p>
+<p>We are now running extra climate cafes all over the city and would love to hear from you if you would like one. We have been to The Met Office&comma; St David&apos;s Church Green Event and Sylvania Community Stores and Cafe. Get in touch today. </p>
 
 <p><strong>Facilitators:</strong></p>
 
+<img src="/our-facilitators.jpeg" alt="Exeter Climate Cafe at Sylvania Community Stores and Cafe" className="mx-auto md:float-right md:ml-8 md:max-w-[60%] md:mt-0 md:mb-0" />
 <p>We currently have a pool of facilitators so we can take turns and share the role of having at least two facilitators at every cafe we run. We are trained by the <a href="https://www.climatepsychologyalliance.org/">Climate Psychology Alliance</a> and welcome enquiries from new would-be faciliators. You do not have to have a therapeutic background but some of us do. Get in touch today. </p>
       </main>
 
