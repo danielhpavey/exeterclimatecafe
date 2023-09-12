@@ -42,7 +42,7 @@ export default function Home() {
 
 <p><strong>Every Wednesday morning at <a href="https://exeterphoenix.org.uk/" className="font-semibold">Exeter Phoenix</a></strong> 10.30am - midday</p>
 
-<p>We used to meet in the bar but we are now upstairs in the meeting room - which is the first room on the left at the top of the main stairs, ask at reception as you come in. Please help support the arts centre by purchasing a coffee and/or cake at the cafe bar - you&apos;re welcome to bring these up to the room. </p>
+<p>Please check with reception where we will be as sometimes we have a room and sometimes we are in the cafe bar area, usually by the sofas. Please help support the arts centre by purchasing a coffee and/or cake at the cafe bar.</p>
 
 <p><strong>Parent/Carer Climate Circle </strong>
 - Wednesday 27th September 2023. 
