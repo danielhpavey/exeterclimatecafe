@@ -44,15 +44,6 @@ export default function Home() {
 
 <p>Please check with reception where we will be as sometimes we have a room and sometimes we are in the cafe bar area, usually by the sofas. Please help support the arts centre by purchasing a coffee and/or cake at the cafe bar.</p>
 
-<p><strong>Parent/Carer Climate Circle </strong>
-- Wednesday 27th September 2023. 
-7.30pm-9pm at The Baby Room on Paris Street, Exeter.</p> 
-
-<p>
-Our first (evening) climate circle specifically for parents/guardians. A safe and welcoming space to share your feelings about parenting at this challenging time. There are only 8 places so you do need to book your slot on Eventbrite. Suggested donation of between £2 and £5 for room hire. <a className="break-all" href="https://www.eventbrite.co.uk/e/parentcarer-climate-circle-tickets-715930065097">https://www.eventbrite.co.uk/e/parentcarer-climate-circle-tickets-715930065097</a></p>
-
-<p><strong>Exmouth Climate Cafe</strong> - Sundowners, 15 The Strand, Exmouth, EX8 1AD, 3rd Tuesday of each month 7 - 8.30pm. Contact gerryexmouth@aol.com 07807 371438</p>
-
 <img src="/exeter-climate-cafe-sylvania-community-stores.jpg" alt="Exeter Climate Cafe at Sylvania Community Stores and Cafe" className="mx-auto md:float-left md:mr-8 md:max-w-[50%] md:mt-0 md:mb-0" />
 
 <p><strong>Outreach cafes:</strong></p>
