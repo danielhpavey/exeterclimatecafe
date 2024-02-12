@@ -44,6 +44,12 @@ export default function Home() {
 
 <p>Please check with reception where we will be as sometimes we have a room and sometimes we are in the cafe bar area, usually by the sofas. Please help support the arts centre by purchasing a coffee and/or cake at the cafe bar.</p>
 
+<p>We also have a regular Climate Cafe in Topsham now. This is on the first Monday of each month, 10.30am to 12 midday at The Globe in Topsham.</p>
+
+<p>Exmouth Climate Cafe has also got off to a great start and meets on the 3rd Tuesday of every month 7 - 8.30 pm. The venue for Tue 20th Feb 2024 is Parallel Cafe, Tower Street.</p>
+
+<p>A huge thank you to all our volunteer facilitators for giving their time to run these cafes.</p>
+
 <img src="/exeter-climate-cafe-sylvania-community-stores.jpg" alt="Exeter Climate Cafe at Sylvania Community Stores and Cafe" className="mx-auto md:float-left md:mr-8 md:max-w-[50%] md:mt-0 md:mb-0" />
 
 <p><strong>Outreach cafes:</strong></p>
