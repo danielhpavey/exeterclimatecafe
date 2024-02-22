@@ -46,7 +46,7 @@ export default function Home() {
 
 <p>We also have a regular Climate Cafe in Topsham now. This is on the first Monday of each month, 10.30am to 12 midday at The Globe in Topsham.</p>
 
-<p>Exmouth Climate Cafe has also got off to a great start and meets on the 3rd Tuesday of every month 7 - 8.30 pm. The venue for Tue 20th Feb 2024 is Parallel Cafe, Tower Street.</p>
+<p>Next Exmouth cafe will be at Parallel 50, Tue 19th March.  7pm - 8 30pm.</p>
 
 <p>A huge thank you to all our volunteer facilitators for giving their time to run these cafes.</p>
 
