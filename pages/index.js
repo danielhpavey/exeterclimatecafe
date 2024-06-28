@@ -50,6 +50,9 @@ export default function Home() {
 
 <p>Next dates are 18 June, 16 July, 20 August, 17 September 2024 at the Sideshore Eco Hub  Any questions text or call Gerry <a href="tel:07805371438">07805371438</a></p>
 
+<img src="/climatecafepostera4sidesh-01.jpeg" alt="Exeter Climate Cafe at Sylvania Community Stores and Cafe" className="mx-auto md:mt-0 md:mb-0" />
+
+
 <p>A huge thank you to all our volunteer facilitators for giving their time to run these cafes.</p>
 
 <img src="/exeter-climate-cafe-sylvania-community-stores.jpg" alt="Exeter Climate Cafe at Sylvania Community Stores and Cafe" className="mx-auto md:float-left md:mr-8 md:max-w-[50%] md:mt-0 md:mb-0" />
