@@ -31,6 +31,12 @@ export default function Home() {
         <div className='not-prose text-center'>
         </div>
 
+        <div class="text-center bg-blue-500 text-white font-bold px-4 py-3" role="alert">
+
+<h2 class="text-white mt-3">Exeter Climate Cafe @ The Phoenix is having an August Break</h2>
+<p>We&apos; re having a bit of a rest &amp; recuperation so we can be back fully restored to hold space for your climate concerns in September.</p>
+</div>
+
         <p>Climate change continues - and so do we!</p>
 
         <p>How is the loss of nature and climate change affecting you? Are you feeling worried, enraged, confused, despairing or motivated to act?</p>
