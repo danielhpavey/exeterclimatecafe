@@ -33,8 +33,9 @@ export default function Home() {
 
         <div class="text-center bg-blue-500 text-white font-bold px-4 py-3" role="alert">
 
-<h2 class="text-white mt-3">Exeter Climate Cafe @ The Phoenix is having an August Break</h2>
-<p>We&apos; re having a bit of a rest &amp; recuperation so we can be back fully restored to hold space for your climate concerns in September.</p>
+<p>Our facilitators are having a break in August from our three regular climate cafes in Exeter, Topsham and Exmouth. 
+</p><p>
+We will return ready to hold space for your climate concerns in September.</p>
 </div>
 
         <p>Climate change continues - and so do we!</p>
@@ -54,10 +55,7 @@ export default function Home() {
 
 <p>The <strong>Exmouth Climate Cafe</strong> happens on the 3rd Tuesday of every month at 7.30pm - 9pm.</p>
 
-<p>Next dates are 18 June, 16 July, 20 August, 17 September 2024 at the Sideshore Eco Hub  Any questions text or call Gerry <a href="tel:07805371438">07805371438</a></p>
-
-<img src="/climatecafepostera4sidesh-01.jpeg" alt="Exeter Climate Cafe at Sylvania Community Stores and Cafe" className="mx-auto md:mt-0 md:mb-0" />
-
+<p>Next date is 17 September 2024 at the Sideshore Eco Hub  Any questions text or call Gerry <a href="tel:07805371438">07805371438</a></p>
 
 <p>A huge thank you to all our volunteer facilitators for giving their time to run these cafes.</p>
 
